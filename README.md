@@ -1,6 +1,6 @@
 # Imran Kabeer
 
-Profile site for Imran Kabeer, B2B marketing leader for logistics and supply chain tech, Dubai.
+Profile site for Imran Kabeer, supply chain and technology marketer, Dubai.
 
 Live at https://imrankabeer.com/
 
